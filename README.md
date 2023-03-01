@@ -20,9 +20,6 @@
 
 ![preview](./images/preview.gif.gif)
 
-## 📲 Mobile
-![preview](./images/mobile-first.png)
-
 ## 🚀 Tecnologias
 
 - HTML
